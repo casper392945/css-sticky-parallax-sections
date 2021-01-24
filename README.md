@@ -1,2 +1,2 @@
-# css-sticky-parallax-sections
+# CSS Sticky Parallax Sections
 GitHub Pages
